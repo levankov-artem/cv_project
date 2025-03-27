@@ -8,7 +8,7 @@ from pathlib import Path
 model = torch.hub.load('yolov5', 'custom', path='yolov5/runs/train/parking_detector/weights/best.pt', source='local')
 
 # Image path
-img_path = 'dataset/images/test/aerial-view-of-parking-lot-abstract-E77E31.jpg'
+img_path = # replace with path
 
 # Define custom save directory
 output_dir = Path("yolov5/runs/detect/parking_detect")
