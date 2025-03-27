@@ -1,0 +1,6 @@
+train: C:/Users/Artem/Documents/CV Project/dataset/images/train
+val: C:/Users/Artem/Documents/CV Project/dataset/images/val
+test: C:/Users/Artem/Documents/CV Project/dataset/images/test
+
+nc: 2
+names: ['empty', 'occupied']
